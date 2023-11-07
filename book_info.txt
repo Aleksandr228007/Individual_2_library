@@ -1,0 +1,53 @@
+Name of book: Lost
+Author surname and initials: M.J.R.
+Date of writing: 1805
+Number of copies: 22
+YDK: 1
+
+Name of book: Echoes
+Author surname and initials: S.A.B.
+Date of writing: 2550
+Number of copies: 37
+YDK: 2
+
+Name of book: Whispers
+Author surname and initials: L.K.H.
+Date of writing: 1943
+Number of copies: 28
+YDK: 3
+
+Name of book: Shadows
+Author surname and initials: C.D.E.
+Date of writing: 2121
+Number of copies: 30
+YDK: 4
+
+Name of book: Search
+Author surname and initials: R.P.Q.
+Date of writing: 2707
+Number of copies: 44
+YDK: 5
+
+Name of book: Quest
+Author surname and initials: W.F.G.
+Date of writing: 1850
+Number of copies: 26
+YDK: 6
+
+Name of book: Journey
+Author surname and initials: N.L.V.
+Date of writing: 2301
+Number of copies: 33
+YDK: 7
+
+Name of book: Chronicles
+Author surname and initials: B.T.S.
+Date of writing: 2015
+Number of copies: 32
+YDK: 8
+
+Name of book: Tales
+Author surname and initials: A.E.W.
+Date of writing: 2488
+Number of copies: 40
+YDK: 9
